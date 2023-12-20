@@ -1,4 +1,4 @@
-. ### KAPTAIN MD BOT ###
+. ### STRANGER TV BOT ###
 
 A simple simple multi device whatsapp bot.
 
